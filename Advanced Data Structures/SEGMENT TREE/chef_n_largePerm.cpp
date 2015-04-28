@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+
+int main()
+{int test;
+
+cin>>test;
+
+while(test--)
+{
+long long n,k,x;
+cin>>n>>k;
+
+
+
+}
+
+
+}
